@@ -1,0 +1,6 @@
+C:\Users\Tom\Downloads\Nova pasta\prjFrase\prjFrase\bin\Debug\prjFrase.exe.config
+C:\Users\Tom\Downloads\Nova pasta\prjFrase\prjFrase\bin\Debug\prjFrase.exe
+C:\Users\Tom\Downloads\Nova pasta\prjFrase\prjFrase\bin\Debug\prjFrase.pdb
+C:\Users\Tom\Downloads\Nova pasta\prjFrase\prjFrase\obj\Debug\prjFrase.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Downloads\Nova pasta\prjFrase\prjFrase\obj\Debug\prjFrase.exe
+C:\Users\Tom\Downloads\Nova pasta\prjFrase\prjFrase\obj\Debug\prjFrase.pdb
