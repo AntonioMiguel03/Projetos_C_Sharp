@@ -1,0 +1,7 @@
+C:\Users\Tom\Downloads\Nova pasta\prjQuiz\prjQuiz\bin\Debug\prjQuiz.exe.config
+C:\Users\Tom\Downloads\Nova pasta\prjQuiz\prjQuiz\bin\Debug\prjQuiz.exe
+C:\Users\Tom\Downloads\Nova pasta\prjQuiz\prjQuiz\bin\Debug\prjQuiz.pdb
+C:\Users\Tom\Downloads\Nova pasta\prjQuiz\prjQuiz\obj\Debug\prjQuiz.csprojAssemblyReference.cache
+C:\Users\Tom\Downloads\Nova pasta\prjQuiz\prjQuiz\obj\Debug\prjQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Downloads\Nova pasta\prjQuiz\prjQuiz\obj\Debug\prjQuiz.exe
+C:\Users\Tom\Downloads\Nova pasta\prjQuiz\prjQuiz\obj\Debug\prjQuiz.pdb
