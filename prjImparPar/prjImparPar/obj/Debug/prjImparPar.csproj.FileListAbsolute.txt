@@ -1,0 +1,6 @@
+C:\Users\Tom\Downloads\Nova pasta\prjImparPar\prjImparPar\bin\Debug\prjImparPar.exe.config
+C:\Users\Tom\Downloads\Nova pasta\prjImparPar\prjImparPar\bin\Debug\prjImparPar.exe
+C:\Users\Tom\Downloads\Nova pasta\prjImparPar\prjImparPar\bin\Debug\prjImparPar.pdb
+C:\Users\Tom\Downloads\Nova pasta\prjImparPar\prjImparPar\obj\Debug\prjImparPar.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Downloads\Nova pasta\prjImparPar\prjImparPar\obj\Debug\prjImparPar.exe
+C:\Users\Tom\Downloads\Nova pasta\prjImparPar\prjImparPar\obj\Debug\prjImparPar.pdb
