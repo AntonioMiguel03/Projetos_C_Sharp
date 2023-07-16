@@ -1,0 +1,10 @@
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\bin\Debug\prjConversorNumRom.exe.config
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\bin\Debug\prjConversorNumRom.exe
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\bin\Debug\prjConversorNumRom.pdb
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\obj\Debug\prjConversorNumRom.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\obj\Debug\prjConversorNumRom.Form1.resources
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\obj\Debug\prjConversorNumRom.Properties.Resources.resources
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\obj\Debug\prjConversorNumRom.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\obj\Debug\prjConversorNumRom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\obj\Debug\prjConversorNumRom.exe
+C:\Users\Tom\Desktop\prjConversorNumRom\prjConversorNumRom\obj\Debug\prjConversorNumRom.pdb
