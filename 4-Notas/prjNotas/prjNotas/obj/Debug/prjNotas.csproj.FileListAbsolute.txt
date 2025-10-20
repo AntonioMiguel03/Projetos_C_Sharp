@@ -1,0 +1,7 @@
+C:\Users\Tom\Downloads\Nova pasta\prjNotas\prjNotas\bin\Debug\prjNotas.exe.config
+C:\Users\Tom\Downloads\Nova pasta\prjNotas\prjNotas\bin\Debug\prjNotas.exe
+C:\Users\Tom\Downloads\Nova pasta\prjNotas\prjNotas\bin\Debug\prjNotas.pdb
+C:\Users\Tom\Downloads\Nova pasta\prjNotas\prjNotas\obj\Debug\prjNotas.csprojAssemblyReference.cache
+C:\Users\Tom\Downloads\Nova pasta\prjNotas\prjNotas\obj\Debug\prjNotas.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Downloads\Nova pasta\prjNotas\prjNotas\obj\Debug\prjNotas.exe
+C:\Users\Tom\Downloads\Nova pasta\prjNotas\prjNotas\obj\Debug\prjNotas.pdb
