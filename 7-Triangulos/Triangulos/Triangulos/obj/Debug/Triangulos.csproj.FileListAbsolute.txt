@@ -1,0 +1,10 @@
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\bin\Debug\Triangulos.exe.config
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\bin\Debug\Triangulos.exe
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\bin\Debug\Triangulos.pdb
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\obj\Debug\Triangulos.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\obj\Debug\Triangulos.Form1.resources
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\obj\Debug\Triangulos.Properties.Resources.resources
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.GenerateResource.cache
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\obj\Debug\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\obj\Debug\Triangulos.exe
+C:\Users\Tom\Desktop\Projetos_LP2\Triangulos\Triangulos\obj\Debug\Triangulos.pdb
